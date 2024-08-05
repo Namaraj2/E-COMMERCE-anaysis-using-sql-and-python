@@ -16,7 +16,7 @@
 5. pandas sqlalchemy psycopg2-binary
 6. os
 
- ## ER diagram of detasets
+ ## ER diagram of datasets
  ![ER diagram](https://github.com/user-attachments/assets/b8e6ba2c-f062-4a64-8986-9ff41e28d7be)
 
  ## Question Solved In This Project
